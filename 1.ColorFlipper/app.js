@@ -1,0 +1,2 @@
+const getChangeText = document.getElementById('changeText');
+let colors = ["#26f034","#26f0c1","#14f575","#118ccf","#1150cf","#5011cf","#9911cf","#c811cf","#cf11a9","#cf1186","#cf1160","#cf113d","#cf1117","#cf4011","#de92d0","#de92a8","#f2b963"];
